@@ -1,7 +1,7 @@
 <a name="top"></a>
 # MARs : Multi-Scale Convolution-Attention residual Fusion for Video Summarization (MMSys 2026)
 
-![Model Overview](figure/model_figure.pdf)
+![Model Overview](figure/model_figure.png)
 
 ## Requirements
 |Ubuntu|GPU|CUDA|cuDNN|conda|python|
