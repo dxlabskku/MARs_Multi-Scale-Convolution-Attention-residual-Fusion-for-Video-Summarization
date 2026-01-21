@@ -1,5 +1,5 @@
 <a name="top"></a>
-# MARs : Multi-Scale Convolution-Attention residual Fusion for Video Summarization (ACM Multimedia Systems Conference MMSys 2026)
+# MARs : Multi-Scale Convolution-Attention residual Fusion for Video Summarization (MMSys 2026)
 
 
 ## Requirements
